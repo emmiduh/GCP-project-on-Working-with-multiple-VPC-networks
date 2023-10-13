@@ -10,5 +10,5 @@ In this lab, I performed the following tasks:
 
 * Created custom mode VPC networks with firewall rules
 * Created VM instances using Compute Engine
-* Explored the connectivity for VM instances across VPC networks
-* Created a VM instance with multiple network interfaces
+* Explored the connectivity for VM instances across VPC networks by pinging the internal and external IP addresses for mynet-eu-vm, managementnet-us-vm, and privatenet-us-vm from mynet-us-vm.
+* Created a VM instance with multiple network interfaces in privatesubnet-us, managementsubnet-us, and mynetwork 
